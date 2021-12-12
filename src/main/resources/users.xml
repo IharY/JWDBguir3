@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><USERS>
+    <USER>
+        <name>user1</name>
+        <password>123</password>
+        <access>CREATE</access>
+    </USER>
+    <USER>
+        <name>user2</name>
+        <password>456</password>
+        <access>GET</access>
+    </USER>
+    <USER>
+        <name>user3</name>
+        <password>789</password>
+        <access>EDIT</access>
+    </USER>
+</USERS>

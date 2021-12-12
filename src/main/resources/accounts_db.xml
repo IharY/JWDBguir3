@@ -1,0 +1,12 @@
+<accounts>
+    <account>
+        <login>admin</login>
+        <password>admin</password>
+        <role>ADMIN</role>
+    </account>
+    <profile>
+        <login>user</login>
+        <password>1111</password>
+        <role>USER</role>
+    </profile>
+</accounts>

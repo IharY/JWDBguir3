@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><STUDENTS>
+    <STUDENT>
+        <name>name1</name>
+        <mark>6</mark>
+    </STUDENT>
+    <STUDENT>
+        <name>name2</name>
+        <mark>7</mark>
+    </STUDENT>
+    <STUDENT>
+        <name>name3</name>
+        <mark>10</mark>
+    </STUDENT>
+    <STUDENT>
+        <name>name4</name>
+        <mark>5</mark>
+    </STUDENT>
+    <STUDENT>
+        <name>name5</name>
+        <mark>9</mark>
+    </STUDENT>
+    <STUDENT>
+        <name>name6</name>
+        <mark>10</mark>
+    </STUDENT>
+    <STUDENT>
+        <name>name7</name>
+        <mark>8</mark>
+    </STUDENT>
+    <STUDENT>
+        <name>name8</name>
+        <mark>10</mark>
+    </STUDENT>
+</STUDENTS>
